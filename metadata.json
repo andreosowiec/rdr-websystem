@@ -1,0 +1,6 @@
+{
+  "name": "RDR Serviços e Manutenção Ltda",
+  "description": "Soluções em eletromecânica industrial na Bahia: manutenção preditiva, preventiva e corretiva em motores elétricos, bombas, chillers, torres de resfriamento, quadros e usinagem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

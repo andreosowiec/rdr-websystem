@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Persistência local de agendamentos (evita subir dados de clientes/testes)
+data/
+
+# Capturas de referência enviadas durante a pesquisa e artefatos internos
+public/assets/aistudio/
+.aistudio/
